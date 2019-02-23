@@ -1,8 +1,8 @@
 
 
-    Afghanistan: Kabul
-    Albania: Tirana
-    Algeria: Algiers
+    Afghanistan:Kabul
+    Albania:Tirana
+    Algeria:Algiers
     Andorra: Andorra la Vella
     Angola: Luanda
     Antigua and Barbuda: Saint John's
